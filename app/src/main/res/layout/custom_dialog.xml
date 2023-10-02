@@ -41,7 +41,6 @@
             android:layout_height="wrap_content"
             android:text="@{save}"
             android:id="@+id/btnsave"
-            android:onClick="@{()-> mainActivity.save()}"
             android:layout_gravity="center"
             android:backgroundTint="#CE88F1"/>
 
